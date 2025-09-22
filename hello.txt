@@ -1,2 +1,2 @@
 "Hello Git!!!" 
-This is feature 2
+This is first update
