@@ -1,7 +1,7 @@
 "Hello Git!!!" 
-This is feature 2
+This is feature 2 conflicting change
 
 
-MAin branch edit
+
 
 
